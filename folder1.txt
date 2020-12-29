@@ -10,4 +10,5 @@ Zmìna1.
 
 
 Tohle je rozšíøení sloky pomocí branch extension.
-Kdy chceme vytvoøit novou vìtìv, tak pouíjeme pøíkaz git checkout -b <branch_name>. Poté pøíkazem git add <folder> zvolíme sloku, kde byly provedeny zmìny a pushneme ho na remote (v našem pøípadì na git hub)
+Kdy chceme vytvoøit novou vìtìv, tak pouíjeme pøíkaz git checkout -b <branch_name>. Poté pøíkazem git add <folder> zvolíme sloku, kde byly provedeny zmìny a pushneme ho na remote (v našem pøípadì na git hub.
+Teï se dá øící, e je vìtìv extension pøipravena na slouèení, kterı se provede pøíkazem git merge main.
