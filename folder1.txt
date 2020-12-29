@@ -6,4 +6,7 @@ POZOR ZMÌNA NA FOLDER2.TXT
 
 
 
-Zmìna1. 
+Zmìna1.
+
+
+Tohle je rozšíøení složky pomocí branch extension. 
