@@ -2,8 +2,4 @@ Do Pece se dostanete autem po silnici èíslo 296, k dispozici jsou placená parkov
 
 
 
-POZOR ZMÌNA NA FOLDER2.TXT
-
-
-
-Zmìna1. 
+Pøi pøepnutí na hlavní vìtev main se jakoby smažou všechny zmìny co byly provedeny ve vìtvi extension a my mùžeme zapisovat rovnou do hlavní vìtve main.
