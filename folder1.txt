@@ -9,4 +9,5 @@ POZOR ZMÌNA NA FOLDER2.TXT
 Zmìna1.
 
 
-Tohle je rozšíøení složky pomocí branch extension. 
+Tohle je rozšíøení složky pomocí branch extension.
+Když chceme vytvoøit novou vìtìv, tak použíjeme pøíkaz git checkout -b <branch_name>. Poté pøíkazem git add <folder> zvolíme složku, kde byly provedeny zmìny a pushneme ho na remote (v našem pøípadì na git hub)
